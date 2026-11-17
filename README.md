@@ -61,8 +61,5 @@ Further evaluation on an untouched test set is required before drawing reliable 
 - Examine confusion matrices and class-specific performance.
 - Compare results on an untouched test set.
 
-## Author
-
-**Kazeem Habeeb Olawale**
 
 Data Analyst | Python | SQL | Power BI | Machine Learning
